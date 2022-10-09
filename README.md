@@ -1,2 +1,2 @@
-# Jokenp-
+# Jokenpo
 Pedra, Papel, Tesoura
